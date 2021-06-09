@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="true_text">True</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct! Good Job!</string>
+    <string name="wrong_answer">That\'s incorrect! Try again \/ next question</string>
+    <string name="question_mountain">Q1. Mount Kilimanjaro is the highest mountain in the world.</string>  //False (it's Everest
+    <string name="question_chess">Q2. The knight is the only piece in chess which can only move diagonally.</string>  //False (it is the Bishop)
+    <string name="question_flag">Q3. Nepal is the only country in the world which does not have a rectangular flag.</string>  //True
+    <string name="question_science">Q4. The study of plant is Botany.</string>  //True
+    <string name="question_body">Q5. The human skeleton is made up of less than 100 bones.</string> //False - 206
+    <string name="question_blood">Q6. There are five different blood groups.</string> //False - four
+    <string name="question_human">Q7. The human body has four lungs. </string>   //False - 2
+    <string name="question_science1">Q8.The study of animal is Physiology.</string>  //False - Zoology
+    <string name="question_physics">Q9. Albert Einstein was awarded the Nobel Prize in Physics. </string>  // True
+    <string name="question_spider">Q10. Spiders have six legs. </string>  //False - 8
+    <string name="question_sun">Q11. Venus is the closest planet to the Sun. </string>  //False - Mercury
+    <string name="question_water">Q12. Water is an example of a chemical element. </string>  //False
+    <string name="question_shark">Q13. Sharks are mammals. </string>   //False Shark are Fish
+    <string name="question_electron">Q14. Electrons are larger than molecules. </string>  //False
+    <string name="question_planet">Q15. Venus is the closest planet to the Sun. </string>  //False - Mercury
+    <string name="question_ocean">Q16. The Atlantic Ocean is the biggest ocean on Earth. </string>  //False - Pacific Ocean
+    <string name="question_milk">Q17. Yogurt is produced by bacterial fermentation of milk. </string>  //True
+    <string name="question_spider1">Q18. The fear of spiders is known as ‘arachnophobia’. </string>  //True
+    <string name="question_bone">Q19. The ribs are bones around your chest that protect organs such as the heart.</string>  //True
+    <string name="question_gorilla">Q20. Gorilla is the largest primate animal in the world?  </string>  //True
+    <string name="previous_text">previous</string>
+    <string name="next_text">next_text</string>
+</resources>
